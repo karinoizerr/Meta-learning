@@ -1,0 +1,10 @@
+# Byte-compiled
+pycache/
+*.py[cod]
+
+# IPython Notebook
+.ipynb_checkpoints
+
+/env
+/скрины
+/Доки

@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "./src"
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
+    ]
+}

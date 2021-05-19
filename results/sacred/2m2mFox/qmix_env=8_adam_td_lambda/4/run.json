@@ -1,0 +1,73 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "D:\\Documents\\MY_EXP\\src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.20.3",
+      "PyYAML==5.4.1",
+      "sacred==0.8.2",
+      "torch==1.8.1"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_9cf2b62fc7998ba4f467bb409b95e6f8.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_ce9a261c391cbeae67129d3d806d06da.py"
+      ]
+    ]
+  },
+  "heartbeat": "2021-05-14T17:34:31.629223",
+  "host": {
+    "ENV": {},
+    "cpu": "Unknown",
+    "hostname": "DESKTOP-PK31A30",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.19041-SP0"
+    ],
+    "python_version": "3.8.3"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.map_name=2m2mFox"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2021-05-13T18:09:22.845052",
+  "status": "INTERRUPTED",
+  "stop_time": "2021-05-14T17:34:31.631223"
+}
