@@ -328,7 +328,7 @@ def main():
     winrate = total_winrate / n_episodes
 
     dataframe = pd.read_csv('tmp.csv')
-    dataframe = dataframe.append({'q-learning': winrate},ignore_index=True)
+    dataframe = dataframe.append({'q-learning': winrate})
     dataframe.to_csv('tmp.csv', index=False)
 
 

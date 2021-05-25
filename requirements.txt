@@ -27,6 +27,7 @@ GitPython==3.1.16
 google-auth==1.30.0
 google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
+graphviz==0.16
 grpcio==1.34.1
 gym==0.10.8
 h5py==3.1.0
@@ -80,6 +81,7 @@ py-cpuinfo==8.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
+pydot==1.4.2
 pygame==2.0.1
 pyglet==1.5.16
 Pygments==2.9.0
